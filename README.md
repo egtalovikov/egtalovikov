@@ -19,6 +19,7 @@
 <br />
 
 ### :trophy: Моя статистика:
+[![Codewarrior Profile Badges](https://www.codewars.com/users/egtalovikov/badges/large)](https://www.codewars.com/users/egtalovikov)
 
 
 <div>
