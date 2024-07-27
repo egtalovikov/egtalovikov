@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egtalovikov&label=Profile%20views&color=0e75b6&style=flat" alt="egtalovikov" /> </p>
 
-- 🔭 I’m currently working on [AIDS.CENTER](spid.center)
+- 🔭 I’m currently working on [Otmetka-X](otmetka-x.ru)
 
 - 🌱 I’m currently learning **Next.js**
 
